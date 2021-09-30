@@ -1,0 +1,38 @@
+Один_NOUN в_ADP поле_NOUN не_PART воин_NOUN._PUNCT 
+Одно_NOUN другому_NOUN не_PART мешает_VERB._PUNCT
+Диалекты_NOUN слились_VERB в_ADP один_ADJ язык_NOUN._PUNCT
+В_ADP один_PRON прекрасный_ADJ день_NOUN._PUNCT 
+Один_PRON из_ADP присутствующих_NOUN._PUNCT
+Он_PRON живет_VERB один_ADV._PUNCT
+Одним_ADV нам_PRON не_PART справиться_VERB._PUNCT
+В_ADP группе_NOUN одни_PART мальчики_NOUN._PUNCT
+От_ADP него_PRON одни_PART неприятности_NOUN._PUNCT
+Что_PRON ищет_VERB он_PRON в_ADP стране_NOUN далекой_ADJ?_PUNCT
+Я_PRON писал_VERB вам_PRON,_PUNCT что_SCONJ нас_PRON захватили_VERB штили_NOUN в_ADP южном_ADJ тропике_NOUN._PUNCT
+Что_PART на_ADP зорьке_NOUN на_ADP заре_NOUN,_PUNCT о_ADP весенней_ADJ о_ADP поре_NOUN,_PUNCT птички_NOUN божий_ADJ поют_VERB,_PUNCT в_ADP темном_ADJ лесе_NOUN гнезда_NOUN вьют_VERB._PUNCT
+Он_PRON сейчас_ADV на_ADP удаленке_NOUN._PUNCT
+Мы_PRON ели_VERB суп_NOUN со_ADP сметаной_NOUN и_CCONJ хлебом_NOUN._PUNCT
+И_PART какие_ADJ же_PART здесь_ADV красивые_ADJ ели_NOUN._PUNCT
+Иванов_PROPN приехал_VERB в_ADP Марьино_PROPN._PUNCT
+Горничная_NOUN прибирала_VERB ванную_ADJ комнату_NOUN,_PUNCT пока_SCONJ я_PRON сидела_VERB в_ADP ванной_NOUN._PUNCT
+Игра_NOUN кончилась_VERB ничьей_NOUN._PUNCT
+Соперники_NOUN согласились_VERB на_ADP ничью_NOUN._PUNCT
+Мои_NOUN сегодня_ADV уехали_VERB в_ADP Сочи_PROPN._PUNCT
+Шахматист_NOUN он_PRON никакой_ADJ._PUNCT
+Чувствует_VERB он_PRON себя_PRON ничего_ADV._PUNCT
+Он_PRON очень_ADV даже_PART ничего_ADJ._PUNCT
+Что_PRON ему_PRON?_PUNCT Ему_PRON ничего_ADV,_PUNCT он_PRON всем_PRON обеспечен_VERB._PUNCT
+Сам_NOUN велел_VERB._PUNCT
+Что_PRON ты_PRON задумался_VERB?_PUNCT
+Мы_PRON смотрели_VERB на_ADP иней_NOUN,_PUNCT блестящий_VERB на_ADP солнце_NOUN._PUNCT
+Сегодня_ADV выступал_VERB блестящий_ADJ оратор_NOUN._PUNCT
+Вечером_ADV мы_PRON любим_VERB собираться_VERB у_ADP камина_NOUN и_CCONJ смотреть_VERB на_ADP горящие_VERB дрова_NOUN._PUNCT
+Увидев_VERB ее_PRON горящие_ADJ глаза_NOUN,_PUNCT я_PRON понял_VERB,_PUNCT насколько_ADV это_PRON для_ADP нее_PRON важно_ADV._PUNCT
+Мы_PRON здесь_ADV все_PRON образованные_ADJ люди_NOUN._PUNCT
+Эта_PRON насыпь_NOUN,_PUNCT образованная_VERB взрывом_NOUN,_PUNCT перекрыла_VERB весь_PRON проход_NOUN._PUNCT
+Я_PRON решил_VERB поступить_VERB по_ADP твоему_PRON совету_NOUN._PUNCT
+Пусть_PART будет_VERB по-твоему_ADV._PUNCT
+Он_PRON вправду_ADV счастлив_ADJ._PUNCT
+Мне_PRON не_PART верится_VERB в_ADP правду_NOUN._PUNCT
+Я_PRON отдал_VERB сапоги_NOUN в_ADP растяжку_NOUN._PUNCT
+Не_PART говори_VERB врастяжку_ADV._PUNCT
